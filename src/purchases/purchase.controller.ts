@@ -15,7 +15,7 @@ export class PurchaseController {
         return {
             success: true,
             data: getData,
-            message: "Fetched products successfully"
+            message: "Filtered purchases successfully"
         }
     }
 }
